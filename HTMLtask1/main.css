@@ -1,0 +1,28 @@
+h1 {
+    color: rgb(66, 168, 66);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(235, 226, 226);
+    background-color: rgb(179, 106, 182);
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    color: rgb(211, 103, 32);
+    margin-right: 350px;
+}
+
+.list {
+    background-color: rgb(211, 103, 32);
+    margin-right: 350px;
+}
+
+p {
+    font-size: 15 px;
+}
