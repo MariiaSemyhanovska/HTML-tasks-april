@@ -1,0 +1,23 @@
+.top {
+    height: 100px;
+    width: 500px;
+    background-color: darkcyan;
+}
+
+.bottom {
+    display: flex;
+    height: 200px;
+    width: 500px;
+}
+
+.B {
+    height: 200px;
+    width: 400px;
+    background-color: darkgoldenrod;
+}
+
+.C {
+    height: 200px;
+    width: 100px;
+    background-color:firebrick;
+}

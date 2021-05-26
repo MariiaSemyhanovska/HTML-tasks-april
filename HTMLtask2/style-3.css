@@ -1,0 +1,43 @@
+.header {
+    height: 100px;
+    width: 500px;
+    background-color: rgb(228, 241, 44);
+}
+
+
+.middle {
+    display: flex;
+    height: 300px;
+    width: 500px;
+}
+
+.menu {
+    height: 300px;
+    width: 150px;
+    background-color: rgb(240, 26, 144);
+}
+
+.aside {
+    height: 300px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+}
+
+.part-1 {
+    height: 150px;
+    width: 350px;
+    background-color:rgb(19, 164, 221);
+}
+
+.part-2 {
+    height: 150px;
+    width: 350px;
+    background-color:rgb(17, 28, 128);
+}
+
+.footer {
+    height: 100px;
+    width: 500px;
+    background-color: rgb(84, 223, 72);  
+}

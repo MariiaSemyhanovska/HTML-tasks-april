@@ -1,0 +1,35 @@
+.header {
+    height: 90px;
+    width: 500px;
+    background-color: darkcyan;
+}
+
+.nav {
+    height: 70px;
+    width: 500px;
+    background-color: rgb(0, 111, 139);
+}
+
+.middle {
+    display: flex;
+    height: 200px;
+    width: 500px;
+}
+
+.main {
+    height: 200px;
+    width: 400px;
+    background-color: rgb(2, 67, 151);
+}
+
+.aside {
+    height: 200px;
+    width: 100px;
+    background-color:rgb(3, 6, 151);
+}
+
+.footer {
+    height: 70px;
+    width: 500px;
+    background-color: rgb(51, 3, 128);  
+}
