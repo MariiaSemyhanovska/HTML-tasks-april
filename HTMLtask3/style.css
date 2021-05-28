@@ -1,0 +1,144 @@
+.header {
+    display: flex;
+    height: 50px;
+    width: 600px;
+}
+
+.logo {
+    height: 50px;
+    width: 150px;
+    background-color: aquamarine;
+}
+
+.navigation {
+    height: 50px;
+    width: 450px;
+    background-color:cadetblue;
+}
+
+.summary {
+    height: 70px;
+    width: 600px;
+    background-color: cornflowerblue;
+}
+
+.alert {
+    height: 150px;
+    width: 600px;
+    background-color: rgb(25, 99, 160);
+}
+
+.large-top {
+    display: flex;
+    height: 300px;
+    width: 600px;
+}
+
+.large-left {
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 300px;
+}
+
+.large-right {
+    height: 300px;
+    width: 300px;
+    background-color: rgb(189, 189, 250);
+}
+
+.left-top {
+    display: flex;
+    height: 150px;
+    width: 300px;
+}
+
+.left-bottom {
+    display: flex;
+    height: 150px;
+    width: 300px;
+}
+
+.square-1 {
+    height: 150px;
+    width: 150px;
+    background-color: rgb(123, 155, 67);
+}
+
+.square-2 {
+    height: 150px;
+    width: 150px;
+    background-color:rgb(255, 166, 57);
+}
+
+.square-3 {
+    height: 150px;
+    width: 150px;
+    background-color: rgb(101, 93, 156);
+}
+
+.square-4 {
+    height: 150px;
+    width: 150px;
+    background-color:rgb(122, 56, 170);
+}
+
+.four-in-row {
+    display: flex;
+    height: 150px;
+    width: 600px;
+}
+
+.row-item-1 {
+    height: 150px;
+    width: 150px;
+    background-color: mediumaquamarine;
+}
+
+.row-item-2 {
+    height: 150px;
+    width: 150px;
+    background-color: mediumturquoise;
+}
+
+.row-item-3 {
+    height: 150px;
+    width: 150px;
+    background-color: mediumspringgreen;
+}
+
+.row-item-4 {
+    height: 150px;
+    width: 150px;
+    background-color: mediumseagreen;
+}
+
+.bottom-row {
+    display: flex;
+    height: 150px;
+    width: 600px;
+}
+
+.bottom-left {
+    display: flex;
+    height: 150px;
+    width: 300px;
+}
+
+.bottom-right {
+    height: 150px;
+    width: 300px;
+    background-color: purple;
+}
+
+.bottom-item-1 {
+    height: 150px;
+    width: 150px;
+    background-color: violet;
+}
+
+.bottom-item-2 {
+    height: 150px;
+    width: 150px;
+    background-color: orchid;
+}
